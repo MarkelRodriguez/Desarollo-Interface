@@ -1,0 +1,77 @@
+﻿namespace KaixoMundua
+{
+    partial class Form1
+    {
+        /// <summary>
+        ///  Required designer variable.
+        /// </summary>
+        private System.ComponentModel.IContainer components = null;
+
+        /// <summary>
+        ///  Clean up any resources being used.
+        /// </summary>
+        /// <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        protected override void Dispose(bool disposing)
+        {
+            if (disposing && (components != null))
+            {
+                components.Dispose();
+            }
+            base.Dispose(disposing);
+        }
+
+        #region Windows Form Designer generated code
+
+        /// <summary>
+        ///  Required method for Designer support - do not modify
+        ///  the contents of this method with the code editor.
+        /// </summary>
+        private void InitializeComponent()
+        {
+            this.btnKaixo = new System.Windows.Forms.Button();
+            this.btnItxi = new System.Windows.Forms.Button();
+            this.SuspendLayout();
+            // 
+            // btnKaixo
+            // 
+            this.btnKaixo.Font = new System.Drawing.Font("Showcard Gothic", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            this.btnKaixo.Location = new System.Drawing.Point(150, 154);
+            this.btnKaixo.Name = "btnKaixo";
+            this.btnKaixo.Size = new System.Drawing.Size(110, 45);
+            this.btnKaixo.TabIndex = 0;
+            this.btnKaixo.Text = "Kaixo";
+            this.btnKaixo.UseVisualStyleBackColor = true;
+            this.btnKaixo.Click += new System.EventHandler(this.btnKaixo_Click);
+            // 
+            // btnItxi
+            // 
+            this.btnItxi.Font = new System.Drawing.Font("Showcard Gothic", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            this.btnItxi.Location = new System.Drawing.Point(448, 154);
+            this.btnItxi.Name = "btnItxi";
+            this.btnItxi.Size = new System.Drawing.Size(110, 45);
+            this.btnItxi.TabIndex = 1;
+            this.btnItxi.Text = "Itxi";
+            this.btnItxi.UseVisualStyleBackColor = true;
+            this.btnItxi.Click += new System.EventHandler(this.btnItxi_Click);
+            // 
+            // Form1
+            // 
+            this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
+            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.ClientSize = new System.Drawing.Size(800, 419);
+            this.Controls.Add(this.btnItxi);
+            this.Controls.Add(this.btnKaixo);
+            this.Name = "Form1";
+            this.Text = "Form1";
+            this.ResumeLayout(false);
+
+        }
+
+
+
+        #endregion
+
+        private Button btnKaixo;
+        private Button btnItxi;
+    }
+}
