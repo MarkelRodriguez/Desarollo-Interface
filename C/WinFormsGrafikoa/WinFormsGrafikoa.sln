@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormsGrafikoa", "WinFormsGrafikoa\WinFormsGrafikoa.csproj", "{44F9E99B-C8E8-4200-833F-1D1E733B0D7B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{44F9E99B-C8E8-4200-833F-1D1E733B0D7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44F9E99B-C8E8-4200-833F-1D1E733B0D7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44F9E99B-C8E8-4200-833F-1D1E733B0D7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44F9E99B-C8E8-4200-833F-1D1E733B0D7B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4E8164CD-3D36-4E81-B9B2-252915A26938}
+	EndGlobalSection
+EndGlobal

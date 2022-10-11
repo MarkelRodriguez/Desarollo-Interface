@@ -1,0 +1,8 @@
+C:\Users\rodriguez.markel\Desktop\Desarollo_Interface\C#\SalmentaGehiengoBezeroaGrafikoa\SalmentaGehiengoBezeroaGrafikoa\bin\Debug\SalmentaGehiengoBezeroaGrafikoa.dll
+C:\Users\rodriguez.markel\Desktop\Desarollo_Interface\C#\SalmentaGehiengoBezeroaGrafikoa\SalmentaGehiengoBezeroaGrafikoa\bin\Debug\SalmentaGehiengoBezeroaGrafikoa.pdb
+C:\Users\rodriguez.markel\Desktop\Desarollo_Interface\C#\SalmentaGehiengoBezeroaGrafikoa\SalmentaGehiengoBezeroaGrafikoa\obj\Debug\SalmentaGehiengoBezeroaGrafikoa.csproj.AssemblyReference.cache
+C:\Users\rodriguez.markel\Desktop\Desarollo_Interface\C#\SalmentaGehiengoBezeroaGrafikoa\SalmentaGehiengoBezeroaGrafikoa\obj\Debug\SalmentaGehiengoBezeroaGrafikoa.UserControl1.resources
+C:\Users\rodriguez.markel\Desktop\Desarollo_Interface\C#\SalmentaGehiengoBezeroaGrafikoa\SalmentaGehiengoBezeroaGrafikoa\obj\Debug\SalmentaGehiengoBezeroaGrafikoa.csproj.GenerateResource.cache
+C:\Users\rodriguez.markel\Desktop\Desarollo_Interface\C#\SalmentaGehiengoBezeroaGrafikoa\SalmentaGehiengoBezeroaGrafikoa\obj\Debug\SalmentaGehiengoBezeroaGrafikoa.csproj.CoreCompileInputs.cache
+C:\Users\rodriguez.markel\Desktop\Desarollo_Interface\C#\SalmentaGehiengoBezeroaGrafikoa\SalmentaGehiengoBezeroaGrafikoa\obj\Debug\SalmentaGehiengoBezeroaGrafikoa.dll
+C:\Users\rodriguez.markel\Desktop\Desarollo_Interface\C#\SalmentaGehiengoBezeroaGrafikoa\SalmentaGehiengoBezeroaGrafikoa\obj\Debug\SalmentaGehiengoBezeroaGrafikoa.pdb

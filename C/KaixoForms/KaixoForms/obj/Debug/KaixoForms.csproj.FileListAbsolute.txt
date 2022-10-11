@@ -1,0 +1,14 @@
+C:\Users\rodriguez.markel\Desktop\Desarollo_Interface\C#\KaixoForms\KaixoForms\bin\Debug\KaixoForms.exe.config
+C:\Users\rodriguez.markel\Desktop\Desarollo_Interface\C#\KaixoForms\KaixoForms\bin\Debug\KaixoForms.exe
+C:\Users\rodriguez.markel\Desktop\Desarollo_Interface\C#\KaixoForms\KaixoForms\bin\Debug\KaixoForms.pdb
+C:\Users\rodriguez.markel\Desktop\Desarollo_Interface\C#\KaixoForms\KaixoForms\bin\Debug\KaixoDll.dll
+C:\Users\rodriguez.markel\Desktop\Desarollo_Interface\C#\KaixoForms\KaixoForms\bin\Debug\KaixoDll.pdb
+C:\Users\rodriguez.markel\Desktop\Desarollo_Interface\C#\KaixoForms\KaixoForms\obj\Debug\KaixoForms.csproj.AssemblyReference.cache
+C:\Users\rodriguez.markel\Desktop\Desarollo_Interface\C#\KaixoForms\KaixoForms\obj\Debug\KaixoForms.csproj.SuggestedBindingRedirects.cache
+C:\Users\rodriguez.markel\Desktop\Desarollo_Interface\C#\KaixoForms\KaixoForms\obj\Debug\KaixoForms.Form1.resources
+C:\Users\rodriguez.markel\Desktop\Desarollo_Interface\C#\KaixoForms\KaixoForms\obj\Debug\KaixoForms.Properties.Resources.resources
+C:\Users\rodriguez.markel\Desktop\Desarollo_Interface\C#\KaixoForms\KaixoForms\obj\Debug\KaixoForms.csproj.GenerateResource.cache
+C:\Users\rodriguez.markel\Desktop\Desarollo_Interface\C#\KaixoForms\KaixoForms\obj\Debug\KaixoForms.csproj.CoreCompileInputs.cache
+C:\Users\rodriguez.markel\Desktop\Desarollo_Interface\C#\KaixoForms\KaixoForms\obj\Debug\KaixoForms.csproj.CopyComplete
+C:\Users\rodriguez.markel\Desktop\Desarollo_Interface\C#\KaixoForms\KaixoForms\obj\Debug\KaixoForms.exe
+C:\Users\rodriguez.markel\Desktop\Desarollo_Interface\C#\KaixoForms\KaixoForms\obj\Debug\KaixoForms.pdb

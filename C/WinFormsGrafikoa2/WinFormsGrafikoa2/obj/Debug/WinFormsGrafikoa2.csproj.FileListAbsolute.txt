@@ -1,0 +1,14 @@
+C:\Users\rodriguez.markel\Desktop\Desarollo_Interface\C#\WinFormsGrafikoa2\WinFormsGrafikoa2\bin\Debug\WinFormsGrafikoa2.exe.config
+C:\Users\rodriguez.markel\Desktop\Desarollo_Interface\C#\WinFormsGrafikoa2\WinFormsGrafikoa2\bin\Debug\WinFormsGrafikoa2.exe
+C:\Users\rodriguez.markel\Desktop\Desarollo_Interface\C#\WinFormsGrafikoa2\WinFormsGrafikoa2\bin\Debug\WinFormsGrafikoa2.pdb
+C:\Users\rodriguez.markel\Desktop\Desarollo_Interface\C#\WinFormsGrafikoa2\WinFormsGrafikoa2\bin\Debug\GrafikoaDll.dll
+C:\Users\rodriguez.markel\Desktop\Desarollo_Interface\C#\WinFormsGrafikoa2\WinFormsGrafikoa2\bin\Debug\GrafikoaDll.pdb
+C:\Users\rodriguez.markel\Desktop\Desarollo_Interface\C#\WinFormsGrafikoa2\WinFormsGrafikoa2\obj\Debug\WinFormsGrafikoa2.csproj.AssemblyReference.cache
+C:\Users\rodriguez.markel\Desktop\Desarollo_Interface\C#\WinFormsGrafikoa2\WinFormsGrafikoa2\obj\Debug\WinFormsGrafikoa2.csproj.SuggestedBindingRedirects.cache
+C:\Users\rodriguez.markel\Desktop\Desarollo_Interface\C#\WinFormsGrafikoa2\WinFormsGrafikoa2\obj\Debug\WinFormsGrafikoa2.Form1.resources
+C:\Users\rodriguez.markel\Desktop\Desarollo_Interface\C#\WinFormsGrafikoa2\WinFormsGrafikoa2\obj\Debug\WinFormsGrafikoa2.Properties.Resources.resources
+C:\Users\rodriguez.markel\Desktop\Desarollo_Interface\C#\WinFormsGrafikoa2\WinFormsGrafikoa2\obj\Debug\WinFormsGrafikoa2.csproj.GenerateResource.cache
+C:\Users\rodriguez.markel\Desktop\Desarollo_Interface\C#\WinFormsGrafikoa2\WinFormsGrafikoa2\obj\Debug\WinFormsGrafikoa2.csproj.CoreCompileInputs.cache
+C:\Users\rodriguez.markel\Desktop\Desarollo_Interface\C#\WinFormsGrafikoa2\WinFormsGrafikoa2\obj\Debug\WinFormsGrafikoa2.csproj.CopyComplete
+C:\Users\rodriguez.markel\Desktop\Desarollo_Interface\C#\WinFormsGrafikoa2\WinFormsGrafikoa2\obj\Debug\WinFormsGrafikoa2.exe
+C:\Users\rodriguez.markel\Desktop\Desarollo_Interface\C#\WinFormsGrafikoa2\WinFormsGrafikoa2\obj\Debug\WinFormsGrafikoa2.pdb
